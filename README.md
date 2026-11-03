@@ -49,3 +49,4 @@ ByCompany is built by **CS-Next**, a student-led community focused on computer s
 ## License
 
 Licensed under the [Apache License 2.0](LICENSE).
+<!-- test: verify pr validation workflow -->
